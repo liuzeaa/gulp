@@ -1,0 +1,27 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "this is a gulp",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-imagemin": "^3.0.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp.spritesmith": "^6.2.1",
+    "imagemin-pngcrush": "^5.0.0"
+  },
+  "scripts": {
+    "test": "syxhappy224"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://guthub.com/liuzeaa"
+  },
+  "keywords": [
+    "syxhappy224"
+  ],
+  "author": "liuzeaa",
+  "license": "MIT"
+}
